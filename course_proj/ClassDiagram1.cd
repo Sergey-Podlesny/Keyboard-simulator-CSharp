@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kursaCH.DataBase">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAwAAAAKAhAAAQAAEBAAAAABQAQQAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.InfoForm">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <Members>
+      <Field Name="closeButton" Hidden="true" />
+      <Field Name="complError" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="easyRadioB" Hidden="true" />
+      <Field Name="hardRadioB" Hidden="true" />
+      <Field Name="infoButton" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="mediumRadioB" Hidden="true" />
+      <Field Name="startButton" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AhAAAAEQACAAABEAggCiAEgGAgBAAAAAACAQAAAAQBA=</HashCode>
+      <FileName>InfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.Program">
+    <Position X="8.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.RegistrationForm">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <Members>
+      <Field Name="backButton" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="loginBox" Hidden="true" />
+      <Field Name="loginError" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="passwordBox" Hidden="true" />
+      <Field Name="passwordError" Hidden="true" />
+      <Field Name="regButton" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ACAAAAgAACAAABBCAACACAgiBQQAEAAACAAAAQAAABA=</HashCode>
+      <FileName>RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.ResultForm">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="curAvSpeedLable" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="lable4" Hidden="true" />
+      <Field Name="lable5" Hidden="true" />
+      <Field Name="mistLable" Hidden="true" />
+      <Field Name="overAvSpeedLable" Hidden="true" />
+      <Field Name="timeLable" Hidden="true" />
+      <Field Name="сloseButton" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QAAAQAAAACAAABAIAQDAAAgCAEAYAgAAgGAQAABAAAA=</HashCode>
+      <FileName>ResultForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.ServerData">
+    <Position X="4.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAQAAAAEAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>ServerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.Simulator">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Field Name="countOfWordsLable" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="key0" Hidden="true" />
+      <Field Name="key1" Hidden="true" />
+      <Field Name="key10" Hidden="true" />
+      <Field Name="key11" Hidden="true" />
+      <Field Name="key12" Hidden="true" />
+      <Field Name="key13" Hidden="true" />
+      <Field Name="key14" Hidden="true" />
+      <Field Name="key15" Hidden="true" />
+      <Field Name="key16" Hidden="true" />
+      <Field Name="key17" Hidden="true" />
+      <Field Name="key18" Hidden="true" />
+      <Field Name="key19" Hidden="true" />
+      <Field Name="key2" Hidden="true" />
+      <Field Name="key20" Hidden="true" />
+      <Field Name="key21" Hidden="true" />
+      <Field Name="key22" Hidden="true" />
+      <Field Name="key23" Hidden="true" />
+      <Field Name="key24" Hidden="true" />
+      <Field Name="key25" Hidden="true" />
+      <Field Name="key26" Hidden="true" />
+      <Field Name="key27" Hidden="true" />
+      <Field Name="key28" Hidden="true" />
+      <Field Name="key29" Hidden="true" />
+      <Field Name="key3" Hidden="true" />
+      <Field Name="key30" Hidden="true" />
+      <Field Name="key31" Hidden="true" />
+      <Field Name="key32" Hidden="true" />
+      <Field Name="key33" Hidden="true" />
+      <Field Name="key34" Hidden="true" />
+      <Field Name="key35" Hidden="true" />
+      <Field Name="key36" Hidden="true" />
+      <Field Name="key37" Hidden="true" />
+      <Field Name="key38" Hidden="true" />
+      <Field Name="key39" Hidden="true" />
+      <Field Name="key4" Hidden="true" />
+      <Field Name="key40" Hidden="true" />
+      <Field Name="key41" Hidden="true" />
+      <Field Name="key42" Hidden="true" />
+      <Field Name="key43" Hidden="true" />
+      <Field Name="key44" Hidden="true" />
+      <Field Name="key45" Hidden="true" />
+      <Field Name="key46" Hidden="true" />
+      <Field Name="key47" Hidden="true" />
+      <Field Name="key48" Hidden="true" />
+      <Field Name="key49" Hidden="true" />
+      <Field Name="key5" Hidden="true" />
+      <Field Name="key50" Hidden="true" />
+      <Field Name="key51" Hidden="true" />
+      <Field Name="key52" Hidden="true" />
+      <Field Name="key53" Hidden="true" />
+      <Field Name="key6" Hidden="true" />
+      <Field Name="key7" Hidden="true" />
+      <Field Name="key8" Hidden="true" />
+      <Field Name="key9" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="MistakeLable" Hidden="true" />
+      <Field Name="readingBox" Hidden="true" />
+      <Field Name="stopWatchLable" Hidden="true" />
+      <Field Name="timerForStopWatch" Hidden="true" />
+      <Field Name="timerForWordPerMinute" Hidden="true" />
+      <Field Name="writingBox" Hidden="true" />
+      <Field Name="сloseButton" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>2wIASBCi/yMIADAI/luAIP5XegAAEQQIiKU/AEQJAEE=</HashCode>
+      <FileName>Simulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.StartForm">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <Members>
+      <Field Name="closeButton" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="difficultyError" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="loginBox" Hidden="true" />
+      <Field Name="logInButton" Hidden="true" />
+      <Field Name="loginError" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="passwordBox" Hidden="true" />
+      <Field Name="passwordError" Hidden="true" />
+      <Field Name="regButton" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAACAAABECAACACAgiBQQAEgAAiAAAAQACAAA=</HashCode>
+      <FileName>StartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.Text">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAEAAAAACIAEAQAAAQAAABAEAABAAQAAAAA=</HashCode>
+      <FileName>Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.Properties.Resources">
+    <Position X="8.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursaCH.Properties.Settings">
+    <Position X="10.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
